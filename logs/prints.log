@@ -1,0 +1,6 @@
+02:17:31.808 [main] ERROR alpha.Demo -Button is not displayed
+02:17:31.811 [main] FATAL alpha.Demo -object is missing
+02:18:16.331 [main] DEBUG beta.Demo1 -I am debugging
+02:18:16.335 [main] INFO  beta.Demo1 -object is present
+02:18:16.335 [main] ERROR beta.Demo1 -object is not present
+02:18:16.336 [main] FATAL beta.Demo1 -This is fatal
